@@ -1,0 +1,21 @@
+{
+    "name": "quantumsheep/jsoneditor",
+    "description": "PHP library for JSON editing",
+    "keywords": ["json", "editor"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+           "name":"Nathanael Demacon",
+           "email":"nathanael.dmc@outlook.fr",
+           "homepage":"https://github.com/QuantumSheep",
+           "role":"Developer"
+        }
+    ],
+   "autoload":{
+        "files":[
+            "src/JSONEditor.php"
+        ]
+    },
+    "require": {}
+}
